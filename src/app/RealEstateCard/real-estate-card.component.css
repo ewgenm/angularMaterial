@@ -1,0 +1,11 @@
+.real-estate-card {
+  width: 100%;
+  max-width: 400px;
+  min-width: 200px;
+  height: 500px;
+}
+
+.real-estate-header-image {
+
+  background-size: cover;
+}

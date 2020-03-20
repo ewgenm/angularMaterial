@@ -1,0 +1,22 @@
+.example-container {
+  height: 500px;
+  width: 99%;
+  overflow: auto;
+
+}
+
+table {
+  width: 100%;
+}
+
+.basic-container {
+  padding: 5px;
+}
+
+.mat-row.hovered {
+  background: #eee;
+}
+
+.mat-row.highlighted {
+  background: #999;
+}

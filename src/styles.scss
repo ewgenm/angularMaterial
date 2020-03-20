@@ -1,0 +1,24 @@
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+body {
+  font-family: Roboto, Arial, sans-serif;
+  margin: 0;
+}
+.basic-container {
+  width: 100%;
+  padding: 30px;
+
+}
+.basic-container > .f1cont {
+  float: left;
+  width: 69%;
+  padding-left: 1%;
+}
+.basic-container > .f2cont {
+  float: right;
+  width: 30%;
+}
+
+/**  Copyright 2019 Google LLC. All Rights Reserved.
+    Use of this source code is governed by an MIT-style license that
+    can be found in the LICENSE file at http://angular.io/license */
